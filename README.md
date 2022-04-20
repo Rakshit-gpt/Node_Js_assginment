@@ -7,13 +7,13 @@
 #### 1. Clone my repo
 
 ```console
-$ git clone https://github.com/Thunderbolt9/CRUD_API_Node_js.git
+$ git clone https://github.com/Rakshit-gpt/Nodeja_assginment
 ```
 
 #### 2. Install the dependencies
 
 ```console
-$ cd CRUD_API_Node_js
+$ cd Node_Js_Assignment
 $ npm install
 ```
 
